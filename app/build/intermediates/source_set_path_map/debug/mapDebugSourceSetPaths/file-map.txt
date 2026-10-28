@@ -1,0 +1,8 @@
+com.example.syncounter.app-pngs-0 C:\android_syn_counter\app\build\generated\res\pngs\debug
+com.example.syncounter.app-resValues-1 C:\android_syn_counter\app\build\generated\res\resValues\debug
+com.example.syncounter.app-updated_navigation_xml-2 C:\android_syn_counter\app\build\generated\updated_navigation_xml\debug
+com.example.syncounter.app-packageDebugResources-3 C:\android_syn_counter\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.syncounter.app-packageDebugResources-4 C:\android_syn_counter\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.syncounter.app-debug-5 C:\android_syn_counter\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.syncounter.app-debug-6 C:\android_syn_counter\app\src\debug\res
+com.example.syncounter.app-main-7 C:\android_syn_counter\app\src\main\res
