@@ -1,8 +1,14 @@
 # Syn Counter
 
-A small, native Android app for tracking daily Slimming World syn totals. It stores each day's total in a private on-device SQLite database and lets you view the 30 most recently saved days as a graph. The daily target is saved on the device.
+A small, native Android app for tracking daily my personal adherence to a famous food optimsation/diet system.
+This is in no way affiliated with, or endorsed by, any diet plan organisation and is a personal project.
+It stores each day's total in a private on-device SQLite database and lets you view the 30 most recently saved days as a graph. The daily target is saved on the device.
 
 The app does not request network, location, contacts, camera, or other phone permissions. App data is excluded from Android backup.
+Code written use GitHub Copilot, via VSCode, then built and compiled in Android Studio.
+
+## Licencing
+Original app source is licensed under GPL-3.0-only; third-party components are identified in THIRD-PARTY-NOTICES.md.
 
 ## Requirements
 
